@@ -22,7 +22,7 @@ int main() {
 }
 
 
-
+typedef int pixel;
 
 struct image_header {
   int width;
